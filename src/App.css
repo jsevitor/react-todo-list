@@ -6,9 +6,9 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #c9c9c9;
+  background: linear-gradient(180deg, rgba(83,88,120,1) 0%, rgba(157,176,206,1) 30%, rgba(184,216,227,1) 60%, rgba(254,225,221,1) 75%, rgba(233,194,197,1) 90%, rgba(206,160,170,1) 100%);
   padding: 30px;
-  color: #333;
+  color: #474747;
 }
 
 h1 {
